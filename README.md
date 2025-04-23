@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi there👋, I'm Racheal
+![GitHub followers](https://img.shields.io/github/followers/tolulope23-ops?style=for-the-badge&logo=github)
+
+
+
 
 <!--
 **tolulope23-ops/tolulope23-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
