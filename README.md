@@ -23,12 +23,15 @@
 
 ### 📫 Reach Me
 - **Email**: raedev28@example.com  
-- **Twitter**: [@RachealTechie](https://x.com/raedev23)  
-- **LinkedIn**: [linkedin.com/in/racheal-dev](https://www.linkedin.com/in/raedev)
+- **Twitter**: [Rachael Adeyemi](https://x.com/raedev23)  
+- **LinkedIn**: [Adeyemi Rachael](https://www.linkedin.com/in/raedev)
 
 
 ### ⚡ Fun fact
 When I’m not coding, I’m likely writing to help other young devs discover their niche in tech 🚀.
+
+### 📊 GitHub Stats
+![Racheal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tolulope23-ops&show_icons=true&theme=radical)
 
 <!--
 **tolulope23-ops/tolulope23-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
