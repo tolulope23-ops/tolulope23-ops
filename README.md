@@ -1,5 +1,5 @@
 ## Hi there👋, I'm Racheal
-🚀 I'm a **Backend Developer** passionate about building secure, scalable APIs that solve real-world problems.
+🚀 I'm a **Backend Developer** passionate about building secure, scalable APIs that solves real-world problems.
 
 ## 💻 Tech Stack
 - **Languages**: JavaScript, TypeScript
@@ -7,6 +7,7 @@
 - **Databases**: MongoDB, PostgreSQL
 - **Full Stack**: MERN (MongoDB, Express, React, Node.js)
 - **Tools & DevOps**: Git, GitHub, Postman, Jest
+  
 
 ### 🛠️ Highlight Projects
 - **Payment Gateway API**: Integrated Paystack to enable seamless online payments for small businesses.
@@ -30,11 +31,6 @@
 ### ⚡ Fun fact
 When I’m not coding, I’m likely writing to help other young devs discover their niche in tech 🚀.
 
-### 📊 GitHub Stats
-![Racheal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tolulope23-ops&show_icons=true&theme=radical)
-
-Optional visitor badge 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tolulope23-ops.Adeyemi)
 <!--
 **tolulope23-ops/tolulope23-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
