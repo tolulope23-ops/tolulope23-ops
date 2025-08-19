@@ -6,7 +6,7 @@
 - **Frameworks**: Node.js, Express.js
 - **Databases**: MongoDB, PostgreSQL
 - **Full Stack**: MERN (MongoDB, Express, React, Node.js)
-- **Tools & DevOps**: Git, GitHub, Postman, Jest
+- **Tools & DevOps**: Git, GitHub, Gitlab, Postman, Jest
   
 
 ### 🛠️ Highlight Projects
