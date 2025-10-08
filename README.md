@@ -1,47 +1,41 @@
-## Hi there👋, I'm Racheal
-🚀 I'm a **Backend Developer** passionate about building secure, scalable APIs that solves real-world problems.
+## Hi there 👋, I'm Racheal  
+🚀 A **Backend Developer** passionate about building secure, scalable APIs that solve real-world problems — with a strong foundation in frontend technologies like HTML, CSS, and Vanilla JavaScript.
 
-## 💻 Tech Stack
-- **Languages**: JavaScript, TypeScript
-- **Frameworks**: Node.js, Express.js
-- **Databases**: MongoDB, PostgreSQL
-- **Full Stack**: MERN (MongoDB, Express, React, Node.js)
-- **Tools & DevOps**: Git, GitHub, Gitlab, Postman, Jest
-  
+### 👩‍💻 About Me
+I’m a results-driven developer who enjoys designing clean, efficient backend systems. I thrive on learning, collaboration, and sharing knowledge with young developers to help them find their niche in tech.
 
-### 🛠️ Highlight Projects
-- **Payment Gateway API**: Integrated Paystack to enable seamless online payments for small businesses.
-- **TaskManagement API**: Built to enable user to manage and organise task according to preference.
-- **AgriCon Platform**: Scalable backend connecting Nigerian farmers to shared infrastructure (Node.js + PostgreSQL).
+---
 
-  
+### 💻 Tech Stack
+- **Languages:** HTML, CSS, Vanilla JavaScript, TypeScript  
+- **Backend:** Node.js, Express.js  
+- **Databases:** MongoDB, PostgreSQL  
+- **Full Stack:** MERN (MongoDB, Express, React, Node.js)  
+- **Tools & DevOps:** Git, GitHub, GitLab, Postman, Jest  
+
+---
+
+### 🧩 Highlight Projects
+- **Payment Gateway API:** Integrated Paystack for seamless online payments — processed 100+ successful test transactions.  
+- **Task Management API:** RESTful API enabling users to manage and organize tasks efficiently.  
+- **AgriCon Platform:** Scalable backend connecting Nigerian farmers to shared infrastructure (Node.js + PostgreSQL).  
+
+---
+
 ### 🤝 Open To
-- Collaborating on impactful backend projects
-- Contributing to open-source  
-- Writing technical content or tutorials  
-- Backend internship or junior dev opportunities
-  
+- Collaborating on impactful backend or full-stack projects  
+- Contributing to open-source initiatives  
+- Writing tutorials or technical content  
+- Backend internship or junior dev opportunities  
+
+---
 
 ### 📫 Reach Me
-- **Email**: raedev28@example.com  
-- **Twitter**: [Rachael Adeyemi](https://x.com/raedev23)  
-- **LinkedIn**: [Adeyemi Rachael](https://www.linkedin.com/in/raedev)
+- **Email:** [raedev28@example.com](mailto:raedev28@example.com)  
+- **Twitter:** [@raedev23](https://x.com/raedev23)  
+- **LinkedIn:** [Adeyemi Rachael](https://www.linkedin.com/in/raedev)  
 
+---
 
 ### ⚡ Fun fact
-When I’m not coding, I’m likely writing to help other young devs discover their niche in tech 🚀.
-
-<!--
-**tolulope23-ops/tolulope23-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I’m not coding, I’m probably writing articles to help young developers discover their strengths in tech 🚀.
