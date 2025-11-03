@@ -42,7 +42,4 @@ I’m a results-driven developer who enjoys designing clean, efficient backend s
 ---
 
 ### ⚡ Fun fact
-When I’m not coding, I’m probably writing articles to help young developers discover their strengths in tech 🚀.
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tolulope23-ops&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tolulope23-ops&layout=compact&theme=tokyonight)
+Outside coding, I enjoy creating technical content that simplifies backend concepts and helps young developers upskill.
