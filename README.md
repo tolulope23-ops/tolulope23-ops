@@ -20,7 +20,6 @@ I’m a results-driven developer who enjoys designing clean, efficient backend s
 ### 🧩 Highlight Projects
 - **Quiz Application:** Designed an interactive quiz system with HTML, CSS, and Vanilla JS featuring dynamic question rendering and real-time score updates.
 - **Payment Gateway API:** Integrated Paystack for seamless online payments, processed 100+ successful test transactions.  
-- **[Quiz Application]** – Interactive quiz app with real-time scoring and dynamic question rendering using Vanilla JS.  
 - **[Vending Machine Simulation]** – Simulated a vending system using **Node.js**, handling item selection, transactions, and balance logic efficiently.  
 - **[AgriCon Platform]** – *Collaborative project* using **Node.js + PostgreSQL**, connecting Nigerian farmers to shared agricultural infrastructure. 
 
