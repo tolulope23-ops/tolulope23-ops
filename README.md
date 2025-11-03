@@ -9,7 +9,7 @@ I’m a results-driven developer who enjoys designing clean, efficient backend s
 ### 💻 Tech Stack
 - **Languages:** HTML, CSS, Vanilla JavaScript, TypeScript  
 - **Backend:** Node.js, Express.js  
-- **Databases:** *Relational:* PostgreSQL, MySQL | 📦 *Non-Relational:* MongoDB, Redis
+- **Databases:** *Relational:* PostgreSQL, MySQL | *Non-Relational:* MongoDB, Redis
 - **Full Stack:** MERN (MongoDB, Express, React, Node.js)  
 - **Tools & DevOps:** Git, GitHub, GitLab, Postman, Jest
 
