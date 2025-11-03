@@ -9,17 +9,20 @@ I’m a results-driven developer who enjoys designing clean, efficient backend s
 ### 💻 Tech Stack
 - **Languages:** HTML, CSS, Vanilla JavaScript, TypeScript  
 - **Backend:** Node.js, Express.js  
-- **Databases:** MongoDB, PostgreSQL  
+- **Databases:** *Relational:* PostgreSQL, MySQL | 📦 *Non-Relational:* MongoDB, Redis
 - **Full Stack:** MERN (MongoDB, Express, React, Node.js)  
-- **Tools & DevOps:** Git, GitHub, GitLab, Postman, Jest  
+- **Tools & DevOps:** Git, GitHub, GitLab, Postman, Jest
+
+
 
 ---
 
 ### 🧩 Highlight Projects
 - **Quiz Application:** Designed an interactive quiz system with HTML, CSS, and Vanilla JS featuring dynamic question rendering and real-time score updates.
 - **Payment Gateway API:** Integrated Paystack for seamless online payments, processed 100+ successful test transactions.  
-- **Task Management API:** RESTful API enabling users to manage and organize tasks efficiently.  
-- **AgriCon Platform:** Scalable backend connecting Nigerian farmers to shared infrastructure (Node.js + PostgreSQL). 
+- **[Quiz Application]** – Interactive quiz app with real-time scoring and dynamic question rendering using Vanilla JS.  
+- **[Vending Machine Simulation]** – Simulated a vending system using **Node.js**, handling item selection, transactions, and balance logic efficiently.  
+- **[AgriCon Platform]** – *Collaborative project* using **Node.js + PostgreSQL**, connecting Nigerian farmers to shared agricultural infrastructure. 
 
 ---
 
@@ -40,3 +43,6 @@ I’m a results-driven developer who enjoys designing clean, efficient backend s
 
 ### ⚡ Fun fact
 When I’m not coding, I’m probably writing articles to help young developers discover their strengths in tech 🚀.
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tolulope23-ops&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tolulope23-ops&layout=compact&theme=tokyonight)
