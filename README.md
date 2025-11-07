@@ -2,7 +2,7 @@
 🚀 A **Backend Developer** passionate about building secure, scalable APIs that solve real-world problems, with a strong foundation in frontend technologies like HTML, CSS, and Vanilla JavaScript.
 
 ### 👩‍💻 About Me
-I’m a results-driven developer who enjoys designing clean, efficient backend systems. I thrive on learning, collaboration, and sharing knowledge with young developers to help them find their niche in tech.
+I’m a results-driven developer who enjoys designing clean, efficient backend systems. I thrive on learning, and sharing knowledge with young developers to help them find their niche in tech.
 
 ---
 
