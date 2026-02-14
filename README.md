@@ -12,17 +12,6 @@ I’m a results-driven developer who enjoys designing clean, efficient backend s
 - **Databases:** *Relational:* PostgreSQL, MySQL | *Non-Relational:* MongoDB, Redis
 - **Full Stack:** MERN (MongoDB, Express, React, Node.js)  
 - **Tools & DevOps:** Git, GitHub, GitLab, Postman, Jest
-
-
-
----
-
-### 🧩 Highlight Projects
-- **Quiz Application:** Designed an interactive quiz system with HTML, CSS, and Vanilla JS featuring dynamic question rendering and real-time score updates.
-- **Payment Gateway API:** Integrated Paystack for seamless online payments, processed 100+ successful test transactions.  
-- **[Vending Machine Simulation]** – Simulated a vending system using **Node.js**, handling item selection, transactions, and balance logic efficiently.  
-- **[AgriCon Platform]** – *Collaborative project* using **Node.js + PostgreSQL**, connecting Nigerian farmers to shared agricultural infrastructure. 
-
 ---
 
 ### 🤝 Open To
@@ -34,9 +23,9 @@ I’m a results-driven developer who enjoys designing clean, efficient backend s
 ---
 
 ### 📫 Reach Me
-- **Email:** [raedev28@example.com](mailto:raedev28@example.com)  
-- **Twitter:** [@raedev23](https://x.com/raedev23)  
-- **LinkedIn:** [Adeyemi Rachael](https://www.linkedin.com/in/raedev)  
+- **Email:** [tolulope.r.adeyemi@gmail.com](mailto:tolulope.r.adeyemi@gmail.com)  
+- **Twitter:** [Racheal Adeyemi](https://x.com/raebuilds_)
+- **LinkedIn:** [Racheal Adeyemi](https://www.linkedin.com/in/raebuilds/)  
 
 ---
 
