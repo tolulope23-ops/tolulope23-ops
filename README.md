@@ -8,17 +8,17 @@ I’m a results-driven developer who enjoys designing clean, efficient backend s
 
 ### 💻 Tech Stack
 - **Languages:** HTML, CSS, Vanilla JavaScript, TypeScript  
-- **Backend:** Node.js, Express.js  
+- **Backend:** Node.js, Express.js, Nestjs 
 - **Databases:** *Relational:* PostgreSQL, MySQL | *Non-Relational:* MongoDB, Redis
 - **Full Stack:** MERN (MongoDB, Express, React, Node.js)  
-- **Tools & DevOps:** Git, GitHub, GitLab, Postman, Jest
+- **Tools & DevOps:** Git, GitHub, GitLab, Postman, Jest, Swagger.
 ---
 
 ### 🤝 Open To
 - Collaborating on impactful backend or full-stack projects  
 - Contributing to open-source initiatives  
 - Writing tutorials or technical content  
-- Backend internship or junior dev opportunities  
+- Backend junior and mid-level developer opportunities  
 
 ---
 
@@ -30,4 +30,4 @@ I’m a results-driven developer who enjoys designing clean, efficient backend s
 ---
 
 ### ⚡ Fun fact
-Outside coding, I enjoy creating technical content that simplifies backend concepts and helps young developers upskill.
+Outside coding, I enjoy creating technical content that simplifies backend concepts.
