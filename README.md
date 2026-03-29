@@ -15,10 +15,10 @@ I’m a results-driven developer who enjoys designing clean, efficient backend s
 ---
 
 ### 🤝 Open To
-- Collaborating on impactful backend or full-stack projects  
-- Contributing to open-source initiatives  
+- Collaborating on impactful projects that solves real world problems.
+- Contributing to open-source projects  
 - Writing tutorials or technical content  
-- Backend junior and mid-level developer opportunities  
+- Junior and mid-level Backend developer opportunities  
 
 ---
 
