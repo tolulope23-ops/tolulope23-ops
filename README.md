@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Racheal  
-🚀 A **Backend Developer** building secure, scalable APIs that solve real-world problems, with a strong foundation in frontend technologies like HTML, CSS, and Vanilla JavaScript.
+🚀 A **Backend Developer** building secure, scalable APIs and security minded solutions, that solve real-world problems, with a strong foundation in frontend technologies like HTML, CSS, and Vanilla JavaScript.
 
 ### 👩‍💻 About Me
 I'm a backend developer who thrives on solving problems through clean, scalable and efficient code. My journey into programming started with a fascination for how things work under the hood and that curiosity has never faded. I believe in writing code that tells a story-code that future developers (including myself) can understand, maintain, and extend. Good documentation isn't an afterthought; it's part of the craft.
