@@ -28,6 +28,3 @@ I'm a backend developer who thrives on solving problems through clean, scalable 
 - **LinkedIn:** [Racheal Adeyemi](https://www.linkedin.com/in/raebuilds/)  
 
 ---
-
-### ⚡ Fun fact
-Outside coding, I enjoy creating technical content that simplifies backend concepts.
